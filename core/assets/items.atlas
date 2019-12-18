@@ -1,0 +1,76 @@
+
+items.png
+size: 256,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+book_normal
+  rotate: false
+  xy: 233, 345
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+door_normal
+  rotate: false
+  xy: 2, 188
+  size: 179, 321
+  orig: 179, 321
+  offset: 0, 0
+  index: -1
+folder_normal
+  rotate: false
+  xy: 183, 329
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+key_icon
+  rotate: false
+  xy: 183, 445
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+key_normal
+  rotate: false
+  xy: 134, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mac_normal
+  rotate: false
+  xy: 2, 68
+  size: 176, 118
+  orig: 176, 118
+  offset: 0, 0
+  index: -1
+paper_icon
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+postit_icon
+  rotate: false
+  xy: 183, 379
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+postit_normal
+  rotate: false
+  xy: 183, 295
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+usb_icon
+  rotate: false
+  xy: 68, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

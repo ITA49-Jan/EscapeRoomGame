@@ -1,0 +1,76 @@
+
+buttons.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+backward
+  rotate: false
+  xy: 194, 184
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+btn_down
+  rotate: false
+  xy: 2, 138
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+btn_normal
+  rotate: false
+  xy: 2, 185
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+btn_over
+  rotate: false
+  xy: 2, 91
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 194, 132
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+forward
+  rotate: false
+  xy: 194, 80
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+login_down
+  rotate: false
+  xy: 79, 55
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+login_normal
+  rotate: false
+  xy: 2, 2
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+text_normal
+  rotate: false
+  xy: 2, 38
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 84, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
